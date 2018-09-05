@@ -1,6 +1,6 @@
 # States top.sls
 base:
   '*':
-    - common
+    - states.common
   'minion1':
     - nettools
