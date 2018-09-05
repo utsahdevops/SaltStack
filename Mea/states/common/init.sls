@@ -1,2 +1,3 @@
+#Common init
 include:
-  - packages
+  - common.packages
